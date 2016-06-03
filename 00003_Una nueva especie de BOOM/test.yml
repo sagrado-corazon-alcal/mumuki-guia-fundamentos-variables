@@ -1,1 +1,6 @@
 subject: boomBoomKid
+
+show_initial_board: false
+
+examples:
+ - error: out_of_board
