@@ -14,7 +14,7 @@ teacher_info: |-
 language: gobstones
 id_format: '%05d'
 order:
+- 4
 - 1
 - 2
 - 3
-- 4
