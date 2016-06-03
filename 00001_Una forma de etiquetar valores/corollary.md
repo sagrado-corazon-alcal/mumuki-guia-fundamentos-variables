@@ -1,1 +1,1 @@
-¡Bien! Como dedujiste, `numerito` vale `2` en ese contexto, y eso es lo que devuelve la función.
+¡Bien! Como dedujiste, la **variable** `numerito` vale `2` en ese contexto, y eso es lo que devuelve la función.
