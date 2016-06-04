@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: quienGano
+  inspection: HasIf
+- binding: quienGano
+  inspection: HasVariable
