@@ -1,0 +1,1 @@
+Una vez que te vayas de la celda actual ya no vas a poder saber cuántas bolitas había, deberías buscar la forma de _recordarlo_ antes. :wink:
