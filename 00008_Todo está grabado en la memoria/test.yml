@@ -13,6 +13,6 @@ examples:
      GBB/1.0
      size 2 1
      cell 0 0 Rojo 4 Azul 2
-     cell 0 0 Rojo 1 Verde 2
+     cell 1 0 Rojo 1 Verde 2
      head 0 0
    return: '6'
