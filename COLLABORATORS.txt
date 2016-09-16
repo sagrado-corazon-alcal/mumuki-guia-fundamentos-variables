@@ -1,2 +1,2 @@
 Algunos ejercicios están basados en las guías complementarias de la materia Introducción a la Programación perteneciente a la Tecnicatura Universitaria en Programación Inform
-ática de la Universiad Nacional de Quilmes, cuyo principal autor es Carlos Lombardi.
+ática de la Universidad Nacional de Quilmes, cuyo principal autor es Carlos Lombardi.
