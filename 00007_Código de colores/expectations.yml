@@ -1,6 +1,0 @@
----
-expectations:
-- binding: numeroAColor
-  inspection: HasArity:1
-- binding: numeroAColor
-  inspection: HasVariable
