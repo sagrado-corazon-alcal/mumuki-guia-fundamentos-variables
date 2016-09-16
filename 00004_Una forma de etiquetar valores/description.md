@@ -2,11 +2,11 @@ Como decíamos recién, necesitamos una forma de **recordar** valores para poder
 
 Una aclaración importante: lo que vamos a hacer en este ejercicio y en algunos de los siguientes **no es una buena práctica**, es simplemente un pequeño juego para que entiendas cómo funcionan las variables. No lo intentes en tu casa. :no_entry_sign:
 
+> Empecemos de una vez: copiá la función en el editor y fijate qué devuelve.
+
 ```puppet
 function noHacerEstoEnCasa() {
   numerito := 2
   return (numerito)
 }
 ```
-
-> Copiá la función en el editor y fijate qué devuelve.
