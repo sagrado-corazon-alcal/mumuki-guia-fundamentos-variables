@@ -1,0 +1,18 @@
+subject: numeroAColor
+
+examples:
+ - arguments:
+   - 1
+   return: 'Azul'
+   
+ - arguments:
+   - 2
+   return: 'Negro'
+   
+ - arguments:
+   - 3
+   return: 'Rojo'
+   
+ - arguments:
+   - 4
+   return: 'Verde'
