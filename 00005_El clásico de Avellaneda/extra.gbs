@@ -1,0 +1,7 @@
+function golesRacing() {
+  return (nroBolitas(Azul))
+}
+
+function golesIndependiente() {
+  return (nroBolitas(Rojo))
+}

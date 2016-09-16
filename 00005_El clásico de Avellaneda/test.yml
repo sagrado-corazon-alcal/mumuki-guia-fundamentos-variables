@@ -1,0 +1,16 @@
+subject: quienGano
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Rojo 1 Azul 3
+     head 0 0
+   return: 'Azul'
+
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Rojo 3 Azul 2
+     head 0 0
+   return: 'Rojo'
