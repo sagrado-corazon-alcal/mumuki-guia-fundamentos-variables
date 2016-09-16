@@ -1,0 +1,1 @@
+Finalmente encontramos un primer uso interesante para las **variables**: funciones en las que necesitamos devolver diferentes valores según se cumpla o no alguna condición.
