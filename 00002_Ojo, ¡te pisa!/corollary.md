@@ -1,1 +1,1 @@
-En una **variable** siempre queda guardado **el último valor** que se le asignó.
+Conclusión: en una **variable** siempre queda guardado **el último valor** que se le asignó.
