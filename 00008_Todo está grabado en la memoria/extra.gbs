@@ -1,9 +1,11 @@
 function maximo(x, y) {
   if (x > y) {
-    return (x)
+    mayor := x
   } else {
-    return (y)
+    mayor := y
   }
+  
+  return (mayor)
 }
 
 function nroBolitasTotal() {
