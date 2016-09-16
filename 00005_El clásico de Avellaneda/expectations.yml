@@ -1,6 +1,8 @@
 ---
 expectations:
 - binding: quienGano
-  inspection: HasIf
-- binding: quienGano
   inspection: HasVariable
+- binding: quienGano
+  inspection: HasUsage:golesRacing
+- binding: quienGano
+  inspection: HasUsage:golesIndependiente
