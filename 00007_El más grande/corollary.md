@@ -1,1 +1,1 @@
-Suficiente con esto de usar variables con `if`, pasemos a otros ejemplos de uso más interesantes.
+Suficiente con esto de usar variables con `if`, pasemos a otros usos más interesantes.
