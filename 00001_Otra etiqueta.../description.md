@@ -1,10 +1,10 @@
 Veamos si lo entendiste: 
 
 ```puppet
-function noHacerEstoEnCasa() {
-  numerito := 8
-  return (numerito)
+function noHacerEstoEnCasaTampoco() {
+  colorcito := Verde
+  return (Verde)
 }
 ```
 
-> Escribí en el editor el valor que creés que devuelve la función `noHacerEstoEnCasa()`.
+> Escribí en el editor el valor que creés que devuelve la función `noHacerEstoEnCasaTampoco()`.
