@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: maximaCantidadDeBolitas
+  inspection: HasVariable
+- binding: maximaCantidadDeBolitas
+  inspection: HasUsage:maximo
+- binding: maximaCantidadDeBolitas
+  inspection: HasUsage:nroBolitasTotal

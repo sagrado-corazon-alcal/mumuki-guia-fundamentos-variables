@@ -1,0 +1,11 @@
+function maximo(x, y) {
+  if (x > y) {
+    return (x)
+  } else {
+    return (y)
+  }
+}
+
+function nroBolitasTotal() {
+  return (nroBolitas(Azul) + nroBolitas(Negro) + nroBolitas(Rojo) + nroBolitas(Verde))
+}
