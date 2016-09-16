@@ -1,0 +1,1 @@
+> Escribí la función `cuantoFaltaHasta(direccion)` que denote la cantidad de celdas que faltan hasta llegar al borde.
