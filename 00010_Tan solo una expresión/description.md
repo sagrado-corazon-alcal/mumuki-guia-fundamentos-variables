@@ -15,8 +15,6 @@ cuantoVale := algo * 2
 ```
 Nada muy nuevo, `algo` denota `25` y eso multiplicado por `2` vale `50`.
 
-<hr>
-
 ```puppet
 cuantoVale := Norte
 cuantoVale := opuesto(cuantoVale)
@@ -24,8 +22,6 @@ cuantoVale := opuesto(cuantoVale)
 Apa, acá hay que pensar un poco más. :frowning:
 <br>
 Al evaluar `opuesto(cuantoVale)`, la variable `cuantoVale` ya tenía el valor `Norte` y por lo tanto toda la expresión denotará `Sur`; eso quedará guardado finalmente en la variable.
-
-<hr>
 
 ```puppet
 algo := 10
