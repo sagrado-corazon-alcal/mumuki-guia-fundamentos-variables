@@ -16,6 +16,6 @@ Afortunadamente tu _caja de herramientas_ no viene vacía, te dejamos algunas co
 * el procedimiento `CosecharPlanta()` que cosecha todos los tomates que hay en una planta;
 * el procedimiento `DejarTomates(cantidad)` que deja la cantidad de tomates indicada por parámetro en la celda actual.
  
-Además, te ayudamos un poco con la estructura para que sólo tengas que concentrarte en lo que queremos que aprendas acá: a ~cosechar tomates~ usar **variables**. :wink:
+Además, te ayudamos un poco con la estructura de tu solución para que sólo tengas que concentrarte en lo que queremos que aprendas acá: a ~cosechar tomates~ usar **variables**. :wink:
 
 > Completá el procedimiento `CosecharHuerta()` con la ayuda que te brindamos.
