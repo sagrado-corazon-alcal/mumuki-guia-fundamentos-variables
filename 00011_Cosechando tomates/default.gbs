@@ -1,4 +1,4 @@
-procedure CosecharTomates() {
+procedure CosecharHuerta() {
   tomatesCosechados := 0
 
   repeat (3) {

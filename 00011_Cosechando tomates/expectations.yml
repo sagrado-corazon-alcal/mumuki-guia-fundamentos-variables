@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: CosecharTomates
+- binding: CosecharHuerta
   inspection: HasUsage:CosecharPlanta
+- binding: CosecharHuerta
+  inspection: HasUsage:DejarTomates
+- binding: CosecharHuerta
+  inspection: HasUsage:cantidadTomates
