@@ -9,17 +9,24 @@ Y claro, también pueden usarse en una **asignación**, o sea que ¡le asignamos
 
 Veamos algunos ejemplos de esto:
 
-<table class="table table-striped">
-  <tr>
-    <th>Código</th>
-    <th>Valor de `cuantoVale`</th>
-  </tr>
-  <tr>
-    <td>```puppet
-una := 25
-cuantoVale := una * 2```
-    </td>
-    <td>50</td>
-  </tr>
-</table>
+```puppet
+algo := 25
+cuantoVale := algo * 2
+```
+Nada muy nuevo, `algo` denota `25` y eso multiplicado por `2` vale `50`.
 
+```puppet
+cuantoVale := Norte
+cuantoVale := opuesto(cuantoVale)
+```
+Apa, acá hay que pensar un poco más. :frowning:
+<br>
+Al evaluar `opuesto(cuantoVale)`, la variable `cuantoVale` ya tenía el valor `Norte` y por lo tanto toda la expresión denotará `Sur`; eso quedará guardado finalmente en la variable.
+
+```puppet
+algo := 10
+cuantoVale := 5
+cuantoVale := (algo * cuantoVale) + cuantoVale
+```
+
+> Este último caso te lo dejamos a vos, pensalo y escribí en el editor el valor que quedaría en `cuantoVale`.
