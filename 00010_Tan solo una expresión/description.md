@@ -25,10 +25,14 @@ Apa, acá hay que pensar un poco más. :frowning:
 <br>
 Al evaluar `opuesto(cuantoVale)`, la variable `cuantoVale` ya tenía el valor `Norte` y por lo tanto toda la expresión denotará `Sur`; eso quedará guardado finalmente en la variable.
 
+<hr>
+
 ```puppet
 algo := 10
 cuantoVale := 5
 cuantoVale := (algo * cuantoVale) + cuantoVale
 ```
+
+¿Y acá qué pasa?
 
 > Este último caso te lo dejamos a vos, pensalo y escribí en el editor el valor que quedaría en `cuantoVale`.
