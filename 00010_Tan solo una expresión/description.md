@@ -15,6 +15,8 @@ cuantoVale := algo * 2
 ```
 Nada muy nuevo, `algo` denota `25` y eso multiplicado por `2` vale `50`.
 
+<hr>
+
 ```puppet
 cuantoVale := Norte
 cuantoVale := opuesto(cuantoVale)
