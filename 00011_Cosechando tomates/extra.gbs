@@ -2,6 +2,10 @@ procedure CosecharPlanta() {
   SacarN(cantidadTomates(), Rojo)
 }
 
+procedure DejarTomates(cantidad) {
+  PonerN(cantidad, Rojo)
+}
+
 function cantidadTomates() {
   return (nroBolitas(Rojo))
 }
