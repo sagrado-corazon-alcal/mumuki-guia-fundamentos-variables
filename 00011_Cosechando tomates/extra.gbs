@@ -1,3 +1,11 @@
+procedure CosecharPlanta() {
+  SacarN(cantidadTomates(), Rojo)
+}
+
+function cantidadTomates() {
+  return (nroBolitas(Rojo))
+}
+
 procedure MoverN(cantidad, direccion) {
   repeat(cantidad) {
     Mover(direccion)
