@@ -1,0 +1,9 @@
+procedure CosecharTomates() {
+  tomatesCosechados := 0
+
+  repeat (3) {
+    /* completar acá... */
+  }
+
+  /* completar acá... */
+}
