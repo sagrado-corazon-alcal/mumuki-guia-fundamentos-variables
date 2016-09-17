@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: CosecharTomates
+  inspection: HasUsage:CosecharPlanta
