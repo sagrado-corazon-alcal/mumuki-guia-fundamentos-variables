@@ -1,0 +1,1 @@
+Esta idea de asignar una variable a sí misma es muy útil para **acumular** cosas, como veremos en los próximos ejercicios.
