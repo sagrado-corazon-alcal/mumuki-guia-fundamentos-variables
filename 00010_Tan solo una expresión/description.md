@@ -9,7 +9,17 @@ Y claro, también pueden usarse en una **asignación**, o sea que ¡le asignamos
 
 Veamos algunos ejemplos de esto:
 
-```puppet
+<table class="table table-striped">
+  <tr>
+    <th>Código</th>
+    <th>Valor de `cuantoVale`</th>
+  </tr>
+  <tr>
+    <td>```puppet
 una := 25
-otra := una * 2  // *una* vale 25, así que *otra* valdrá 50
-```
+cuantoVale := una * 2```
+    </td>
+    <td>50</td>
+  </tr>
+</table>
+
