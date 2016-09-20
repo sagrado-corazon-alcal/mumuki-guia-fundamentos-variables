@@ -1,7 +1,7 @@
 ---
 name: Variables
 locale: es
-type: practice
+type: learning
 beta: false
 teacher_info: |-
   # Objetivos principales
@@ -25,3 +25,4 @@ order:
 - 10
 - 11
 - 9
+- 12
