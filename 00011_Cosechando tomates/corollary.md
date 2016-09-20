@@ -1,0 +1,1 @@
+Las variables se vuelven especialmente interesantes y poderosas cuando las combinamos con **recorridos**, porque nos permiten hacer operaciones en las que intervienen muchas celdas.
