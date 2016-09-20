@@ -18,3 +18,12 @@ examples:
      cell 2 0 Rojo 8
      head 0 0
    return: '678'
+   
+ - initial_board: |
+     GBB/1.0
+     size 3 1
+     cell 0 0 Rojo 5
+     cell 1 0 Rojo 1
+     cell 2 0 Rojo 4
+     head 0 0
+   return: '514'   
