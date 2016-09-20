@@ -7,7 +7,7 @@ Aunque no lo dijimos de manera explícita, seguramente ya te diste cuenta: las v
 
 Y claro, también pueden usarse en una **asignación**, o sea que ¡podemos asignarle un valor a una variable usando una variable! :fearful:
 
-Veamos algunos ejemplos de esto:
+Veamos algunos ejemplos de esto que parece un trabalenguas:
 
 ```puppet
 algo := 25
