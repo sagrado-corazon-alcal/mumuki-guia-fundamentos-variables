@@ -1,7 +1,6 @@
 ---
 expectations:
-- verb: 
-  binding: numero
+- binding: numero
   inspection: HasVariable
 - binding: numero
   inspection: HasUsage:cifra

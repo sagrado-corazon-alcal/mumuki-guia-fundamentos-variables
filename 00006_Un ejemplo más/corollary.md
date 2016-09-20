@@ -1,1 +1,1 @@
-En una **variable** se puede almacenar el resultado de cualquier **expresión**, en este caso una suma.
+En una **variable** se puede almacenar el resultado de cualquier **expresión**, como por ejemplo una suma.
