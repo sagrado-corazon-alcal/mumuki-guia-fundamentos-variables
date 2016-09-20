@@ -1,4 +1,4 @@
-Tu tarea será escribir una función que _decodifique_ un número de tres cifras guardado en el tablero, como por ejemplo:
+Tu tarea será escribir una función que _decodifique_ un número de tres cifras guardado en el tablero, como por ejemplo 514:
 
 ![](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-variables/master/images/numero-514.png)
 
