@@ -1,6 +1,12 @@
-subject: noHacerEstoEnCasa
-
-show_initial_board: false
+subject: PonerAlgunasBolitas
 
 examples:
- - return: 2
+ - initial_board: |
+     GBB/1.0
+     size 3 3
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 3 3
+     cell 0 0 Verde 28
+     head 0 0

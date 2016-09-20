@@ -1,3 +1,3 @@
-Devolvió `2`. :open_mouth:
+Puso 28 bolitas. :open_mouth:
 
 ¿Era lo que esperabas?
