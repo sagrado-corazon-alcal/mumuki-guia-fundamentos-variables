@@ -3,12 +3,12 @@ Como viste en los ejercicios previos, en una **variable** se puede _guardar_ un 
 Algo importante es que en una variable sólo puede guardarse **un valor** a la vez, y cada asignación _"pisa"_ a la anterior: lo que había antes se pierde. Vamos con otro ejemplo:
 
 ```puppet
-function feoFeoFeo() {
-  sinSentido := Norte
-  sinSentido := Este
-  sinSentido := Sur
-  return (sinSentido)
+function direccionMisteriosa() {
+  resultado := Norte
+  resultado := Este
+  resultado := Sur
+  return (resultado)
 }
 ```
 
-> Escribí en el editor el valor que creés que devuelve la función `feoFeoFeo()`.
+> Al igual que en el ejercicio anterior, escribí en el editor el valor que creés que devuelve la función `direccionMisteriosa()`.
