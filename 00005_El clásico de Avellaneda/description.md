@@ -4,4 +4,4 @@ Vamos a usar una celda del tablero para modelar el resultado de un partido entre
 
 > Tu trabajo será escribir la función `quienGano()`, que devuelva el **color** del equipo ganador. 
 
-Para ahorrarte un poco de trabajo (y por si el fútbol no es lo tuyo) escribimos dos funciones en la biblioteca; usalas en tu solución. 
+Para ahorrarte un poco de trabajo (y por si el fútbol no es lo tuyo) escribimos dos funciones en la Biblioteca; usalas en tu solución. 
