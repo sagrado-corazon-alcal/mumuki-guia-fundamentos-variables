@@ -31,4 +31,4 @@ cuantoVale := (algo * cuantoVale) + cuantoVale
 
 ¿Y acá qué pasa?
 
-> Este último caso te lo dejamos a vos, pensalo y escribí en el editor el valor que quedaría en `cuantoVale`.
+> Este último caso te lo dejamos a vos, pensalo y escribí en el editor el valor que quedaría en `cuantoVale`. De nuevo, no tenés que escribir código Gobstones sino simplemente el número que quedaría en `cuantoVale` luego de las asignaciones.
