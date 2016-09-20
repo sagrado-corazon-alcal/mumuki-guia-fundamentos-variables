@@ -5,7 +5,7 @@ Una aclaración importante: lo que vamos a hacer en este ejercicio y en algunos 
 > Empecemos de una vez: copiá este procedimiento en el editor y fijate qué efecto tiene sobre el tablero.
 
 ```puppet
-program PonerAlgunasBolitas() {
+procedure PonerAlgunasBolitas() {
   numerito := 28
   PonerN(numerito, Verde)
 }
