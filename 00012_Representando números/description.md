@@ -6,4 +6,4 @@ Como ves en la imagen, cada una de sus tres cifras se guarda en una celda distin
 
 La idea es que uses una **variable** para ir armando el número, sumando cada una de sus cifras. Como experimentaste en el ejercicio anterior, en una asignación se puede usar el valor que ya tenía la variable, y de esta forma ir **acumulando** un resultado.
 
-> Escribí la función `numero()`, que devuelva el número codificado en el tablero. Para leer cada una de sus cifras, te regalamos una función `cifra()`, mirala en la Biblioteca.
+> Escribí la función `numero()`, que devuelva el número codificado en el tablero. Para leer cada una de sus cifras del tablero, te regalamos una función `cifra()`, mirala en la Biblioteca.
