@@ -1,6 +1,8 @@
-Como viste en los ejercicios previos, en una **variable** se puede _guardar_ un **valor** para utilizarlo más tarde; esto se escribe, por ejemplo `numerito := 2`. A esta acción de **darle un valor** a una variable la llamamos **asignación**.
+Como viste en los ejercicios previos, con una **variable** podemos _etiquetar_ un **valor** para utilizarlo más tarde; esto se escribe, por ejemplo `numerito := 2`. A esta acción de **darle un valor** a una variable la llamamos **asignación**.
 
-Algo importante es que en una variable sólo puede guardarse **un valor** a la vez, y cada asignación _"pisa"_ a la anterior: lo que había antes se pierde. Vamos con otro ejemplo:
+Algo importante es que una variable sólo puede etiquetar **un valor** a la vez, y cada vez que le asignamos un nuevo valor lo que había antes se pierde - podés pensarlo como una etiqueta real: sólo podés pegarla en un lugar a la vez. 
+
+Veamos otro ejemplo:
 
 ```puppet
 function direccionMisteriosa() {
