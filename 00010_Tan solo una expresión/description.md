@@ -21,7 +21,7 @@ cuantoVale := opuesto(cuantoVale)
 ```
 Apa, acá hay que pensar un poco más. :frowning:
 <br>
-Al evaluar `opuesto(cuantoVale)`, la variable `cuantoVale` ya tenía el valor `Norte` y por lo tanto toda la expresión denotará `Sur`; eso quedará guardado finalmente en la variable.
+Al evaluar `opuesto(cuantoVale)`, la variable `cuantoVale` ya tenía el valor `Norte` y por lo tanto toda la expresión denotará `Sur`; eso será lo que finalmente será recordado bajo la etiqueta `cuantoVale`.
 
 ```puppet
 algo := 10
@@ -31,4 +31,4 @@ cuantoVale := (algo * cuantoVale) + cuantoVale
 
 ¿Y acá qué pasa?
 
-> Este último caso te lo dejamos a vos, pensalo y escribí en el editor el valor que quedaría en `cuantoVale`. De nuevo, no tenés que escribir código Gobstones sino simplemente el número que quedaría en `cuantoVale` luego de las asignaciones.
+> Este último caso te lo dejamos a vos, pensalo y escribí en el editor el valor al que etiqueta la variable. De nuevo, no tenés que escribir código Gobstones sino simplemente el número se obtendría al evaluar `cuantoVale` luego de todas las asignaciones.
