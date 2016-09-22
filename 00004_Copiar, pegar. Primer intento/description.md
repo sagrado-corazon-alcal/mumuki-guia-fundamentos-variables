@@ -1,4 +1,4 @@
-Empecemos con un problema: tenemos una celda con una cierta cantidad de bolitas verdes y queremos _copiarlas_ en la celda inmediatamente al Norte. Obviamente, no sabemos de antemano cuántas bolitas habrá y queremos escribir un procedimiento que nos sirva siempre, sin importar cuántas bolitas haya.
+Empecemos con un problema: tenemos una celda con una cierta cantidad de bolitas verdes y queremos _copiarlas_ en la celda inmediatamente al Norte. Obviamente, no sabemos de antemano cuántas bolitas habrá y además queremos escribir un procedimiento que nos sirva para cualquier caso.
 
 Intentemos pensar la estrategia que seguiríamos:
 
