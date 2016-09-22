@@ -7,8 +7,6 @@ Intentemos pensar la estrategia que seguiríamos:
 3. Bueno, recordando que las funciones **no tienen efecto real** sobre el tablero, podríamos armar una función que vuelva al Sur y nos diga cuántas bolitas hay.
 4. Ya con ese dato podemos hacer un viejo y querido `PonerN` y terminar nuestra tarea.
 
-Un poco confuso, ¿no? :confused:
-
 Como no queremos que te rompas la cabeza (por ahora :smirk:), te vamos a dar el código Gobstones que implementa nuestra estrategia para que lo pruebes:
 
 ```puppet

@@ -1,3 +1,3 @@
-Puso 28 bolitas. :open_mouth:
-
-¿Era lo que esperabas?
+_Ehhhh, creo que no entendí nada._ :confused:
+<br>
+Ok, no te juzgamos, a nosotros también nos parece una solución difícil de entender. Tratemos de mejorarla...
