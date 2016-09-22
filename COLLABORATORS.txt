@@ -1,2 +1,3 @@
-Algunos ejercicios están basados en las guías complementarias de la materia Introducción a la Programación perteneciente a la Tecnicatura Universitaria en Programación Inform
-ática de la Universidad Nacional de Quilmes, cuyo principal autor es Carlos Lombardi.
+El vocabulario y algunas explicaciones se basan en el libro "Las bases conceptuales de la Programación" de Pablo E. "Fidel" Martínez López.
+
+Además, algunos ejercicios están basados en las guías complementarias de la materia Introducción a la Programación perteneciente a la Tecnicatura Universitaria en Programación Informática de la Universidad Nacional de Quilmes, cuyo principal autor es Carlos Lombardi.
