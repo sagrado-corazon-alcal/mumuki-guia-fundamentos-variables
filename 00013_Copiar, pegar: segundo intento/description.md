@@ -2,4 +2,4 @@ La gran dificultad de nuestro problema es que necesitamos **recordar** la cantid
 
 Afortunadamente, en Gobstones se pueden definir **variables**, que sirven justamente para lo que queremos hacer: son una forma de darle un nombre a un valor cualquiera, para luego poder utilizarlo en otra parte. Algo así como un parámetro, pero que se puede crear en cualquier lugar.
 
-> Te dejamos en el editor una nueva versión que usa una variable, pero ojo que está incompleta: tenés que pensar cómo averiguar la cantidad de bolitas verdes en la celda actual y completarla.
+> Te dejamos en el editor una nueva versión que usa una variable llamada `cantidadBolitasEnCeldaInicial`. **La solución está incompleta:** tenés que pensar cómo averiguar la cantidad de bolitas verdes en la celda actual y completarla.
