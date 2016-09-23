@@ -1,1 +1,0 @@
-Con una **variable** se puede etiquetar el resultado de cualquier **expresión**, como por ejemplo una suma.

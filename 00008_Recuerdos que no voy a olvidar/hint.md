@@ -1,1 +1,1 @@
-Una vez que te vayas de la celda actual ya no vas a poder saber cuántas bolitas había, deberías buscar la forma de _recordarlo_ antes de salir de ella. :wink:
+Una vez que te vayas de la celda actual ya no vas a poder saber cuántas bolitas había, deberías buscar la forma de _recordarlo_ antes de salir de ella. Muy parecido a lo que hicimos para copiar las bolitas, ¿no? :wink:
