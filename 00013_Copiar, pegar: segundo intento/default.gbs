@@ -1,0 +1,5 @@
+procedure CopiarVerdesAlNorte() {
+  cantidadBolitasEnCeldaInicial := /* completar... */
+  Mover(Norte)
+  PonerN(cantidadBolitasEnCeldaInicial, Verde)
+}
