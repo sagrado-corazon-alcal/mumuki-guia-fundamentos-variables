@@ -15,6 +15,7 @@ language: gobstones
 id_format: '%05d'
 order:
 - 4
+- 13
 - 1
 - 2
 - 6
@@ -26,4 +27,3 @@ order:
 - 12
 - 11
 - 9
-- 13
