@@ -1,0 +1,1 @@
+Parecido a los parámetros, elegimos un nombre que empiece en minúsculas y decimos que desde una cierta parte de nuestro programa ese nombre _significa_ algo, por ejemplo e
