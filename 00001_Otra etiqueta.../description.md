@@ -1,4 +1,6 @@
-Para ver si te quedó claro cómo funcionan las variables, vamos a hacer un pequeño juego: tenés que _adivinar_ qué devuelve esta función:
+Para ver si te quedó claro cómo funcionan las variables, vamos a hacer un pequeño juego. Las funciones que vas a ver en los siguientes ejercicios
+
+tenés que _adivinar_ qué devuelve esta función:
 
 ```puppet
 function colorLoco() {
