@@ -9,7 +9,7 @@ Intentemos pensar la estrategia que seguiríamos:
 
 Como no queremos que te rompas la cabeza (por ahora :smirk:), te vamos a dar el código Gobstones que implementa nuestra estrategia para que lo pruebes:
 
-```puppet
+```gobstones
 procedure CopiarVerdesAlNorte() {
   Mover(Norte)
   PonerN(bolitasVerdesAlSur(), Verde)

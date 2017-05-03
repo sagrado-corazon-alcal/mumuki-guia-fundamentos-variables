@@ -4,7 +4,7 @@ Una variable sólo puede etiquetar **un valor**, y cada vez que le asignamos uno
 
 Veamos otro ejemplo:
 
-```puppet
+```gobstones
 function direccionMisteriosa() {
   resultado := Norte
   resultado := Este

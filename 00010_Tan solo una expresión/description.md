@@ -9,13 +9,13 @@ Y claro, también pueden usarse en una **asignación**, o sea que ¡podemos asig
 
 Veamos algunos ejemplos de esto que parece un trabalenguas:
 
-```puppet
+```gobstones
 algo := 25
 cuantoVale := algo * 2
 ```
 Nada muy nuevo, `algo` denota `25` y eso multiplicado por `2` vale `50`.
 
-```puppet
+```gobstones
 cuantoVale := Norte
 cuantoVale := opuesto(cuantoVale)
 ```
@@ -23,7 +23,7 @@ Apa, acá hay que pensar un poco más. :frowning:
 <br>
 Al evaluar `opuesto(cuantoVale)`, la variable `cuantoVale` ya tenía el valor `Norte` y por lo tanto toda la expresión denotará `Sur`; eso será lo que finalmente será recordado bajo la etiqueta `cuantoVale`.
 
-```puppet
+```gobstones
 algo := 10
 cuantoVale := 5
 cuantoVale := (algo * cuantoVale) + cuantoVale

@@ -4,7 +4,7 @@ Una advertencia: lo que vas a ver en los siguientes ejercicios no tiene mucho se
 
 Comenzando, tenés que _adivinar_ qué devuelve esta función:
 
-```puppet
+```gobstones
 function colorLoco() {
   colorcito := Verde
   return (colorcito)

@@ -2,7 +2,7 @@ Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para 
 
 Tomate unos minutos para pensarlo (si tenés a alguien cerca podés incluso discutirlo un rato). Cuando tengas alguna idea de qué podría pasar, copiá el código que te dejamos acá y mirá qué sucede:
 
-```puppet
+```gobstones
 function boomBoomKid() {
   return (unaVariableQueNoExiste)
 }
