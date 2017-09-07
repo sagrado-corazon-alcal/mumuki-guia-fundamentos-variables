@@ -21,4 +21,4 @@ function bolitasVerdesAlSur() {
 }
 ```
 
-> Copiá esta primera versión en el editor y mirá cómo cumple el objetivo.
+> Escribí esta primera versión en el editor y mirá cómo cumple el objetivo.
