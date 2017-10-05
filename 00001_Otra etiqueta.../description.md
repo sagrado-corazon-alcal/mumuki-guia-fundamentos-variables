@@ -13,4 +13,4 @@ function colorLoco() {
 
 Por esta vez, no tenés que escribir código Gobstones sino simplemente lo que pensás que devuelve.
 
-> Escribí en el editor el valor que creés que devuelve la función `colorLoco()`.
+> ¿Qué valor creés que devuelve la función `colorLoco()`?.
