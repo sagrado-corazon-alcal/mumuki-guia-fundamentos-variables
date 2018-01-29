@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: cuantoFaltaHasta
-  inspection: HasVariable
+  inspection: HasBinding
 - binding: cuantoFaltaHasta
   inspection: HasWhile
