@@ -6,7 +6,7 @@ examples:
      size 2 1
      cell 0 0 Rojo 1 Azul 3
      head 0 0
-   return: 'Negro'
+   return: 'Azul'
 
  - initial_board: |
      GBB/1.0
