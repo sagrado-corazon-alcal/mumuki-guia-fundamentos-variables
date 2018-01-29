@@ -3,4 +3,4 @@ expectations:
 - binding: maximo
   inspection: HasArity:2
 - binding: maximo
-  inspection: HasVariable
+  inspection: HasBinding

@@ -1,7 +1,7 @@
 ---
 expectations:
 - binding: quienGano
-  inspection: HasVariable
+  inspection: HasBinding
 - binding: quienGano
   inspection: HasUsage:golesRacing
 - binding: quienGano
