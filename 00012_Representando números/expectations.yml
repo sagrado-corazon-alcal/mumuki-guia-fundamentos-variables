@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: numero
-  inspection: HasVariable
+  inspection: HasBinding
 - binding: numero
   inspection: HasUsage:cifra
