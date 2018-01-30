@@ -1,7 +1,7 @@
 ---
 expectations:
 - binding: maximaCantidadDeBolitas
-  inspection: HasVariable
+  inspection: HasBinding
 - binding: maximaCantidadDeBolitas
   inspection: HasUsage:maximo
 - binding: maximaCantidadDeBolitas
