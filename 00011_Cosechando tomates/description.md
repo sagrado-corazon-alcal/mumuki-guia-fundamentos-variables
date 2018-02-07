@@ -4,11 +4,23 @@ Finalmente nuestra humilde huerta dio sus frutos y ya estamos en condiciones de 
 
 **Antes de cosechar**
 
-![](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-variables/master/images/tomates-por-cosechar.png)
+<gs-board>
+  GBB/1.0
+    size 4 1
+    cell 1 0 Rojo 3
+    cell 2 0 Rojo 7
+    cell 3 0 Rojo 4
+    head 0 0
+</gs-board>
 
 **Después de cosechar**
 
-![](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-variables/master/images/tomates-cosechados.png)
+<gs-board>
+  GBB/1.0
+    size 4 1
+    cell 0 0 Rojo 14
+    head 0 0
+</gs-board>
 
 Para que nos sirva para la próxima cosecha también, vamos a escribir un procedimiento lo suficientemente _inteligente_ como para que funcione con cualquier cantidad de tomates (la huerta por el momento no va a agrandarse, así que no hay que preocuparse por eso). Afortunadamente tu _caja de herramientas_ no viene vacía, te dejamos algunas cosas en la Biblioteca:
 
