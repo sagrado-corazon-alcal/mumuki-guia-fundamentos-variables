@@ -4,7 +4,12 @@ Vamos a usar una celda del tablero para modelar el resultado de un partido entre
 
 Por ejemplo, así se vería un partido en el que Racing metió 3 goles e Independiente 1:
 
-![](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-variables/master/images/3-a-1-gano-racing.png)
+<gs-board>
+  GBB/1.0
+    size 2 1
+    cell 0 0 Rojo 1 Azul 3
+    head 0 0
+</gs-board>
 
 > Tu trabajo será escribir la función `quienGano()`, que devuelva el **color** del equipo ganador. 
 
