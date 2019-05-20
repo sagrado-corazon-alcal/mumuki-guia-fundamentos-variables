@@ -1,6 +1,0 @@
----
-expectations:
-- binding: cuantoFaltaHasta
-  inspection: HasBinding
-- binding: cuantoFaltaHasta
-  inspection: HasWhile

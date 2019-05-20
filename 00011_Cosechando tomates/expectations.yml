@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: CosecharHuerta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CosecharHuerta
   inspection: HasUsage:CosecharPlanta
-- binding: CosecharHuerta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CosecharHuerta
   inspection: HasUsage:DejarTomates
-- binding: CosecharHuerta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CosecharHuerta
   inspection: HasUsage:cantidadTomates

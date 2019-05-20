@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: maximo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximo
   inspection: HasArity:2
-- binding: maximo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximo
   inspection: HasBinding

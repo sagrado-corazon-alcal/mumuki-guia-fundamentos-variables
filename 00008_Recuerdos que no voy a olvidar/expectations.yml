@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: maximaCantidadDeBolitas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximaCantidadDeBolitas
   inspection: HasBinding
-- binding: maximaCantidadDeBolitas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximaCantidadDeBolitas
   inspection: HasUsage:maximo
-- binding: maximaCantidadDeBolitas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximaCantidadDeBolitas
   inspection: HasUsage:nroBolitasTotal

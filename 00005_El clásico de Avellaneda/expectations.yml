@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: quienGano
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienGano
   inspection: HasBinding
-- binding: quienGano
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienGano
   inspection: HasUsage:golesRacing
-- binding: quienGano
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: quienGano
   inspection: HasUsage:golesIndependiente

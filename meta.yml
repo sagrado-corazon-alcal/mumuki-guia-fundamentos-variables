@@ -9,8 +9,6 @@ teacher_info: |-
   * Presentar a las variables como una forma de ponerle nombre a un valor para usarlo más tarde.
   * Mostrar su utilidad para funciones donde hay que devolver cosas diferentes dependiendo de una condición.
   * Cómo usar variables para implementar un contador, acumulador (suma), máximo y mínimo
-
-  # Objetivos secundarios
 language: gobstones
 id_format: "%05d"
 order:
@@ -26,3 +24,4 @@ order:
 - 12
 - 11
 - 9
+private: false

@@ -1,8 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: numero
+  binding: cuantoFaltaHasta
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: numero
-  inspection: HasUsage:cifra
+  binding: cuantoFaltaHasta
+  inspection: HasWhile
